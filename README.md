@@ -20,3 +20,4 @@
 9. `Erst pullen, dann pushen!` **Überprüfe** mit `git pull`, ob sich inzwischen auf dem Remote Repo etwas verändert hat.
    __Spoiler__: Es ist alles beim Alten geblieben! 🙂
 10. **Pushe** deine Änderungen mit `git push` auf das entfernte Repository. Damit hast du die Aufgabe erledigt und kannst deine Bash schließen! 🥳
+11. **Github Benutzername:** PlegaardAphorus
